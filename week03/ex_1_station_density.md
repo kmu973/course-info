@@ -7,6 +7,13 @@ These exercises depend on:
 * **Neighborhood polygon data** (there is no official source of neighborhood boundaries in Philadelphia, but Azavea, a local Philadelphia company that creates geospatial web-based applications and analyses, has created [the go-to source](https://github.com/azavea/geo-data/tree/master/Neighborhoods_Philadelphia))
 * **Park polygon data** (I recommend using the [Philadelphia Parks and Recreation (PPR) Properties dataset](https://opendataphilly.org/dataset/ppr-properties))
 
+
+```exercise
+1. create new dataset in your postgres server 
+2.
+
+```
+
 Load those three datasets into a database.
 
 1.  Write a query that lists which neighborhoods have the highest density of bikeshare stations. Let's say "density" means number of stations per square km.
